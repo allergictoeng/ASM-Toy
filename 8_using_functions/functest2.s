@@ -34,4 +34,3 @@ precision:
 	fmulp %st(0), %st(1)
 	fstps result
 	ret
-	
